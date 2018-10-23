@@ -135,7 +135,6 @@ Durtn <- function(df)
   barplot(Durtn)
 }
 
-
 ## Plot Top stations for female
 TopFstns <- function(df,boston)
 {
@@ -159,3 +158,4 @@ TopMstns <- function(df)
 ## function calling
 loadLibraries()
 
+#end
